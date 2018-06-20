@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Set the text color in the app -->
+    <color name="text_color">#212121</color>
+
+    <!-- Set the text color for the song in playlist -->
+    <color name="song_text_color">#FAFAFA</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#BDBDBD</color>
+
+    <!-- Background color for the playlist -->
+    <color name="playlist">#757575</color>
+
+    <!-- Background color for the playlist -->
+    <color name="category_color">#FAFAFA</color>
+
+    <!-- Background color for the back button -->
+    <color name="back_to_menu_button">#616161</color>
+
+    <!-- Background color for the playlist -->
+    <color name="back_to_media_button">#424242</color>
+
+
+</resources>

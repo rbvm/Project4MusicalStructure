@@ -1,0 +1,23 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Project 4 - Musical Structure</string>
+
+    <!-- Category name for now playing [CHAR LIMIT=20] -->
+    <string name="category_nowPlaying">Now Playing</string>
+
+    <!-- Category name for the music library [CHAR LIMIT=20] -->
+    <string name="category_mediaLibrary">Media Library</string>
+
+    <!-- Button name for going back to Media Library [CHAR LIMIT=20] -->
+    <string name="back_to_library">Go to Media Library</string>
+
+    <!-- Button name for going back to Main Menu [CHAR LIMIT=20] -->
+    <string name="back_to_main">Go to Main Menu</string>
+
+    <!-- Artist Name [CHAR LIMIT=20] -->
+    <string name="artist_name">Artist Name</string>
+
+    <!-- Song Title [CHAR LIMIT=20] -->
+    <string name="song_title">Song Title</string>
+
+</resources>
